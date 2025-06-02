@@ -28,6 +28,7 @@ The dataset used for training is publicly available:
 ### **Step 1: Clone the Repository Locally**
 Run the following command in your terminal:
 ```bash
+git clone https://github.com/geraldine1456/deep-learning-challenge.git
 cd YOUR-REPO
 ```
 Then, open the Jupyter Notebook locally:

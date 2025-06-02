@@ -29,15 +29,12 @@ The dataset used for training is publicly available:
 Run the following command in your terminal:
 ```bash
 git clone https://github.com/geraldine1456/deep-learning-challenge.git
-cd YOUR-REPO
 ```
-Then, open the Jupyter Notebook locally:
+### **Step 2: Install Dependencies**
 ```bash
-jupyter notebook YOUR-NOTEBOOK.ipynb
+pip install tensorflow pandas scikit-learn requests
 ```
-
-### **Step 2: Upload Files to Google Colab**
-If you prefer running the notebook in **Google Colab**, follow these steps:
+### **Step 3: Upload Files to Google Colab**
 1. Open **Google Colab**: **[Google Colab](https://colab.research.google.com/)**
 2. Click `Upload` in the **File Panel** (left sidebar).
 3. Select the notebook (`.ipynb`)
